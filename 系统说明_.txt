@@ -1,0 +1,12 @@
+
+登陆地址：http://localhost:8080/jiaoxue
+
+登录账号名，密码：
+
+管理员：admin,admin
+
+教师：liu,liu
+
+学生：wanghui,wanghui
+
+value="jdbc:mysql://localhost:3306/db_jiaoxue?useUnicode=true&amp;amp;amp;amp;amp;amp;characterEncoding=utf-8">
